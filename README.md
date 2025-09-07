@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthikeya</h1>
-<h3 align="center">B.Tech CSE @ IIITDM Kurnool | Cryptography Enthusiast | MERN Stack Developer</h3>
+<h3 align="center">B.Tech CSE @ IIITDM Kurnool | 
 
 <p align="center">
-  🔐 Working on Post-Quantum Cryptography & Secure APIs<br>
-  🌐 Building full-stack projects with React, Node.js, and MongoDB<br>
   🧑‍💻 Always learning, always building
 </p>
 
@@ -20,13 +18,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum%20Crypto-008080?style=flat)
+![
 
 
 
